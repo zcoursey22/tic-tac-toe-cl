@@ -1,0 +1,21 @@
+{
+  "name": "tic-tac-toe-cl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcoursey22/tic-tac-toe-cl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zcoursey22/tic-tac-toe-cl/issues"
+  },
+  "homepage": "https://github.com/zcoursey22/tic-tac-toe-cl#readme",
+  "dependencies": {
+  }
+}
